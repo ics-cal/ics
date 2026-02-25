@@ -3,13 +3,13 @@ PRODID:-//pikett-plan
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260223T154318Z
+DTSTAMP:20260225T125727Z
 DTSTART:20260507T060000Z
 DTEND:20260511T060000Z
 SUMMARY:Pikett / P1
-DESCRIPTION:2026-05-07 Assignee: peter / Deputy: anna\n2026-05-08 Assigne
- e: peter / Deputy: anna\n2026-05-09 Assignee: peter / Deputy: anna\n2026
- -05-10 Assignee: peter / Deputy: anna
+DESCRIPTION:2026-05-07 Assignee: peter / Deputy: livio\n2026-05-08 Assign
+ ee: peter / Deputy: livio\n2026-05-09 Assignee: peter / Deputy: livio\n2
+ 026-05-10 Assignee: peter / Deputy: livio
 UID:P1_20260507_20260510
 END:VEVENT
 END:VCALENDAR
