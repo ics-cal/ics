@@ -3,7 +3,7 @@ PRODID:-//pikett-plan
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260630T135235Z
+DTSTAMP:20260706T081410Z
 DTSTART:20260817T060000Z
 DTEND:20260820T060000Z
 SUMMARY:Pikett / P1
@@ -13,7 +13,34 @@ DESCRIPTION:2026-08-17 Assignee: michelle / Deputy: roland\n2026-08-18 As
 UID:P1_20260817_20260819
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260630T135235Z
+DTSTAMP:20260706T081410Z
+DTSTART:20261015T060000Z
+DTEND:20261019T060000Z
+SUMMARY:Pikett / P1
+DESCRIPTION:2026-10-15 Assignee: michelle / Deputy: roland\n2026-10-16 As
+ signee: michelle / Deputy: roland\n2026-10-17 Assignee: michelle / Deput
+ y: roland\n2026-10-18 Assignee: michelle / Deputy: roland
+UID:P1_20261015_20261018
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T081410Z
+DTSTART:20261221T070000Z
+DTEND:20270104T070000Z
+SUMMARY:Pikett / P1
+DESCRIPTION:2026-12-21 Assignee: michelle / Deputy: roland\n2026-12-22 As
+ signee: michelle / Deputy: roland\n2026-12-23 Assignee: michelle / Deput
+ y: roland\n2026-12-24 Assignee: michelle / Deputy: francis\n2026-12-25 A
+ ssignee: michelle / Deputy: francis\n2026-12-26 Assignee: michelle / Dep
+ uty: francis\n2026-12-27 Assignee: michelle / Deputy: francis\n2026-12-2
+ 8 Assignee: michelle / Deputy: francis\n2026-12-29 Assignee: michelle / 
+ Deputy: francis\n2026-12-30 Assignee: michelle / Deputy: francis\n2026-1
+ 2-31 Assignee: michelle / Deputy: francis\n2027-01-01 Assignee: michelle
+  / Deputy: francis\n2027-01-02 Assignee: michelle / Deputy: francis\n202
+ 7-01-03 Assignee: michelle / Deputy: francis
+UID:P1_20261221_20270103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T081410Z
 DTSTART:20260604T060000Z
 DTEND:20260608T060000Z
 SUMMARY:Pikett / P2
@@ -23,7 +50,7 @@ DESCRIPTION:2026-06-04 Assignee: michelle / Deputy: markus\n2026-06-05 As
 UID:P2_20260604_20260607
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260630T135235Z
+DTSTAMP:20260706T081410Z
 DTSTART:20260716T060000Z
 DTEND:20260720T060000Z
 SUMMARY:Pikett / P2
@@ -31,5 +58,25 @@ DESCRIPTION:2026-07-16 Assignee: michelle / Deputy: roland\n2026-07-17 As
  signee: michelle / Deputy: roland\n2026-07-18 Assignee: michelle / Deput
  y: roland\n2026-07-19 Assignee: michelle / Deputy: roland
 UID:P2_20260716_20260719
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T081410Z
+DTSTART:20260914T060000Z
+DTEND:20260917T060000Z
+SUMMARY:Pikett / P2
+DESCRIPTION:2026-09-14 Assignee: michelle / Deputy: roland\n2026-09-15 As
+ signee: michelle / Deputy: roland\n2026-09-16 Assignee: michelle / Deput
+ y: roland
+UID:P2_20260914_20260916
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T081410Z
+DTSTART:20261112T070000Z
+DTEND:20261116T070000Z
+SUMMARY:Pikett / P2
+DESCRIPTION:2026-11-12 Assignee: michelle / Deputy: roland\n2026-11-13 As
+ signee: michelle / Deputy: roland\n2026-11-14 Assignee: michelle / Deput
+ y: roland\n2026-11-15 Assignee: michelle / Deputy: roland
+UID:P2_20261112_20261115
 END:VEVENT
 END:VCALENDAR
