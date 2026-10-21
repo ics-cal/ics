@@ -3,7 +3,7 @@ PRODID:-//pikett-plan
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261019T134330Z
+DTSTAMP:20261021T075839Z
 DTSTART:20260921T060000Z
 DTEND:20260924T060000Z
 SUMMARY:Pikett / P1
@@ -12,7 +12,7 @@ DESCRIPTION:2026-09-21 Assignee: francis / Deputy: ivo\n2026-09-22 Assign
 UID:P1_20260921_20260923
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T134330Z
+DTSTAMP:20261021T075839Z
 DTSTART:20261119T070000Z
 DTEND:20261123T070000Z
 SUMMARY:Pikett / P1
@@ -22,7 +22,7 @@ DESCRIPTION:2026-11-19 Assignee: francis / Deputy: ivo\n2026-11-20 Assign
 UID:P1_20261119_20261122
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T134330Z
+DTSTAMP:20261021T075839Z
 DTSTART:20261105T070000Z
 DTEND:20261109T070000Z
 SUMMARY:Pikett / P2
@@ -32,7 +32,7 @@ DESCRIPTION:2026-11-05 Assignee: francis / Deputy: eike\n2026-11-06 Assig
 UID:P2_20261105_20261108
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T134330Z
+DTSTAMP:20261021T075839Z
 DTSTART:20261112T070000Z
 DTEND:20261116T070000Z
 SUMMARY:Pikett / P2
@@ -42,22 +42,23 @@ DESCRIPTION:2026-11-12 Assignee: francis / Deputy: roland\n2026-11-13 Ass
 UID:P2_20261112_20261115
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T134330Z
+DTSTAMP:20261021T075839Z
 DTSTART:20261221T070000Z
-DTEND:20270107T070000Z
+DTEND:20261224T070000Z
 SUMMARY:Pikett / P2
 DESCRIPTION:2026-12-21 Assignee: francis / Deputy: michelle\n2026-12-22 A
  ssignee: francis / Deputy: michelle\n2026-12-23 Assignee: francis / Depu
- ty: michelle\n2026-12-24 Assignee: francis / Deputy: michelle\n2026-12-2
- 5 Assignee: francis / Deputy: michelle\n2026-12-26 Assignee: francis / D
- eputy: michelle\n2026-12-27 Assignee: francis / Deputy: michelle\n2026-1
- 2-28 Assignee: francis / Deputy: michelle\n2026-12-29 Assignee: francis 
- / Deputy: michelle\n2026-12-30 Assignee: francis / Deputy: michelle\n202
- 6-12-31 Assignee: francis / Deputy: michelle\n2027-01-01 Assignee: franc
- is / Deputy: michelle\n2027-01-02 Assignee: francis / Deputy: michelle\n
- 2027-01-03 Assignee: francis / Deputy: michelle\n2027-01-04 Assignee: fr
- ancis / Deputy: andrea\n2027-01-05 Assignee: francis / Deputy: andrea\n2
- 027-01-06 Assignee: francis / Deputy: andrea
-UID:P2_20261221_20270106
+ ty: michelle
+UID:P2_20261221_20261223
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T075839Z
+DTSTART:20270104T070000Z
+DTEND:20270107T070000Z
+SUMMARY:Pikett / P2
+DESCRIPTION:2027-01-04 Assignee: francis / Deputy: andrea\n2027-01-05 Ass
+ ignee: francis / Deputy: andrea\n2027-01-06 Assignee: francis / Deputy: 
+ andrea
+UID:P2_20270104_20270106
 END:VEVENT
 END:VCALENDAR
